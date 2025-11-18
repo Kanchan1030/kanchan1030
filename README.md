@@ -13,8 +13,6 @@ Pursuing B.Tech(Hons.) in Artificial Intelligence with a strong interest in mach
 </p>
 
 
-
-
 ## 🌱 Currently Learning
 - 🤖 Generative AI  
 - 🧠 Advanced Machine Learning Algorithms  
@@ -29,7 +27,6 @@ Pursuing B.Tech(Hons.) in Artificial Intelligence with a strong interest in mach
 - Computer Networks  
 - Object-Oriented Programming (OOP)  
  
-
 ## 🛠️ Skills
 
 #🔹 Programming Languages:
@@ -41,21 +38,14 @@ Pursuing B.Tech(Hons.) in Artificial Intelligence with a strong interest in mach
 # 🔹 Web Development:
 - HTML, CSS, JavaScript  
   
-
 # 🔹 AI / ML / GenAI:
 - Generative AI  
 - Machine Learning   
   
-
 # 🔹 Tools & Libraries:
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - TensorFlow  
-
-## 🔗 Connect With Me
-<p align="left">
-<a href="#"><img src="(https://www.linkedin.com/in/kanchan-patel-922217349)?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
 
 #⭐ Thank you for visiting my GitHub profile!

@@ -53,14 +53,6 @@ Pursuing B.Tech(Hons.) in Artificial Intelligence with a strong interest in mach
 - Scikit-learn  
 - TensorFlow  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical">
-</p>
-
----
-
 ## 🔗 Connect With Me
 <p align="left">
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

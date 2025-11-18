@@ -55,7 +55,7 @@ Pursuing B.Tech(Hons.) in Artificial Intelligence with a strong interest in mach
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="(https://www.linkedin.com/in/kanchan-patel-922217349)?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 #⭐ Thank you for visiting my GitHub profile!

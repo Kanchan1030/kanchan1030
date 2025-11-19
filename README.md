@@ -13,8 +13,6 @@ Strong interest in machine learning and data-driven technologies.
 - 🧠 Machine Learning   
 - 🔍 Deep Learning  
 - 🏗️ Data Structures and Algorithms
-   
-   #skills
 ### 🔹 Programming Languages
 - C Language  
 - Python  

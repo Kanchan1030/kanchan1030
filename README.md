@@ -10,32 +10,18 @@ Strong interest in machine learning and data-driven technologies.
 
 ## 🌱 Currently Learning
 - 🤖 Generative AI  
-- 🧠 Advanced Machine Learning Algorithms  
+- 🧠 Machine Learning   
 - 🔍 Deep Learning  
-- 🏗️ Data Structures and Algorithms  
-
-## 📘 Core Subjects
-- Data Structures & Algorithms  
-- Operating System  
-- Database Management System  
-- Computer Networks  
-- Object-Oriented Programming (OOP)
-
-## 🛠️ Skills
-
+- 🏗️ Data Structures and Algorithms
+   
+   #skills
 ### 🔹 Programming Languages
 - C Language  
 - Python  
 - R Programming  
 - C++  
-
 ### 🔹 Web Development
-- HTML, CSS, JavaScript  
-
-### 🔹 AI / ML / GenAI
-- Generative AI  
-- Machine Learning  
-
+- HTML, CSS, JavaScript 
 ### 🔹 Tools & Libraries
 - Pandas  
 - NumPy  
